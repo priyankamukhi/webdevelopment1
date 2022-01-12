@@ -1,0 +1,71 @@
+C:\projects\web development\web development\bin\web development.dll.config
+C:\projects\web development\web development\bin\web development.dll
+C:\projects\web development\web development\bin\web development.pdb
+C:\projects\web development\web development\bin\roslyn\csc.exe
+C:\projects\web development\web development\bin\roslyn\csc.exe.config
+C:\projects\web development\web development\bin\roslyn\csc.rsp
+C:\projects\web development\web development\bin\roslyn\csi.exe
+C:\projects\web development\web development\bin\roslyn\csi.exe.config
+C:\projects\web development\web development\bin\roslyn\csi.rsp
+C:\projects\web development\web development\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\projects\web development\web development\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\projects\web development\web development\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\projects\web development\web development\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\projects\web development\web development\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\projects\web development\web development\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\projects\web development\web development\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\projects\web development\web development\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\projects\web development\web development\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\projects\web development\web development\bin\roslyn\Microsoft.Managed.Core.targets
+C:\projects\web development\web development\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\projects\web development\web development\bin\roslyn\System.AppContext.dll
+C:\projects\web development\web development\bin\roslyn\System.Collections.Immutable.dll
+C:\projects\web development\web development\bin\roslyn\System.Console.dll
+C:\projects\web development\web development\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\projects\web development\web development\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\projects\web development\web development\bin\roslyn\System.IO.Compression.dll
+C:\projects\web development\web development\bin\roslyn\System.IO.FileSystem.dll
+C:\projects\web development\web development\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\projects\web development\web development\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\projects\web development\web development\bin\roslyn\System.IO.Pipes.dll
+C:\projects\web development\web development\bin\roslyn\System.Reflection.Metadata.dll
+C:\projects\web development\web development\bin\roslyn\System.Security.AccessControl.dll
+C:\projects\web development\web development\bin\roslyn\System.Security.Claims.dll
+C:\projects\web development\web development\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\projects\web development\web development\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\projects\web development\web development\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\projects\web development\web development\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\projects\web development\web development\bin\roslyn\System.Security.Principal.Windows.dll
+C:\projects\web development\web development\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\projects\web development\web development\bin\roslyn\System.ValueTuple.dll
+C:\projects\web development\web development\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\projects\web development\web development\bin\roslyn\System.Xml.XmlDocument.dll
+C:\projects\web development\web development\bin\roslyn\System.Xml.XPath.dll
+C:\projects\web development\web development\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\projects\web development\web development\bin\roslyn\vbc.exe
+C:\projects\web development\web development\bin\roslyn\vbc.exe.config
+C:\projects\web development\web development\bin\roslyn\vbc.rsp
+C:\projects\web development\web development\bin\roslyn\VBCSCompiler.exe
+C:\projects\web development\web development\bin\roslyn\VBCSCompiler.exe.config
+C:\projects\web development\web development\bin\Antlr3.Runtime.dll
+C:\projects\web development\web development\bin\AspNet.ScriptManager.bootstrap.dll
+C:\projects\web development\web development\bin\AspNet.ScriptManager.jQuery.dll
+C:\projects\web development\web development\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\projects\web development\web development\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\projects\web development\web development\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\projects\web development\web development\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\projects\web development\web development\bin\Microsoft.ScriptManager.WebForms.dll
+C:\projects\web development\web development\bin\Microsoft.Web.Infrastructure.dll
+C:\projects\web development\web development\bin\Newtonsoft.Json.dll
+C:\projects\web development\web development\bin\System.Web.Optimization.dll
+C:\projects\web development\web development\bin\WebGrease.dll
+C:\projects\web development\web development\bin\System.Web.Optimization.xml
+C:\projects\web development\web development\bin\Newtonsoft.Json.xml
+C:\projects\web development\web development\bin\Antlr3.Runtime.pdb
+C:\projects\web development\web development\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\projects\web development\web development\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\projects\web development\web development\obj\Debug\web development.csprojAssemblyReference.cache
+C:\projects\web development\web development\obj\Debug\web development.csproj.CoreCompileInputs.cache
+C:\projects\web development\web development\obj\Debug\web development.csproj.CopyComplete
+C:\projects\web development\web development\obj\Debug\web development.dll
+C:\projects\web development\web development\obj\Debug\web development.pdb
