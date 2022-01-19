@@ -38,7 +38,7 @@
             <div class ="row">
                 <div class ="col-md-3"></div>
                 <div class ="col-md-6">
-                    <label><b>Mobile no</b></label>
+                    <label><b>Phone no</b></label>
                     <asp:TextBox runat="server" CssClass="form-control" ID="txtmob" placeholder="Mobile no"></asp:TextBox>
                 <div class ="col-md-3"></div>
                 </div>
