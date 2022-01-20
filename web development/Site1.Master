@@ -26,7 +26,7 @@
             </asp:ContentPlaceHolder>
             <div class="row" style="background:red;height:auto">;
                 <center><span><b>Software technology</b></span></center>
-                <center><span>&copy 2022 software technology Pvt.Ltd</span></center>
+                <center><span>&copy 2022 Software Technology Pvt.Ltd</span></center>
 
         </div>
     </form>
