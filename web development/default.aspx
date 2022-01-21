@@ -92,13 +92,9 @@
 
             </ItemTemplate>
 
-
-
             <LayoutTemplate>
 
-
-
-                <div id="groupPlaceholder" runat="server"></div>
+             <div id="groupPlaceholder" runat="server"></div>
 
                 <asp:DataPager runat="server" ID="DataPager1"  PageSize="02" PagedControlID="lstView" >
 
@@ -113,13 +109,8 @@
                     </Fields>
 
                 </asp:DataPager>
-
-
-            </LayoutTemplate>
-
-
-
-        </asp:ListView>
+             </LayoutTemplate>
+     </asp:ListView>
    
     </tbody>
   </table>
