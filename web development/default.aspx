@@ -96,7 +96,7 @@
 
              <div id="groupPlaceholder" runat="server"></div>
 
-                <asp:DataPager runat="server" ID="DataPager1"  PageSize="02" PagedControlID="lstView" >
+               <asp:DataPager runat="server" ID="DataPager1"  PageSize="02" PagedControlID="lstView" >
 
                     <Fields>
 
@@ -104,7 +104,7 @@
 
                         <asp:NumericPagerField  />
 
- <asp:NextPreviousPagerField ButtonType="Button" ShowLastPageButton="false" ButtonCssClass="page-link  page-item"  ShowNextPageButton="true" ShowPreviousPageButton="false"></asp:NextPreviousPagerField>
+     <asp:NextPreviousPagerField ButtonType="Button" ShowLastPageButton="false" ButtonCssClass="page-link  page-item"  ShowNextPageButton="true" ShowPreviousPageButton="false"></asp:NextPreviousPagerField>
 
                     </Fields>
 
